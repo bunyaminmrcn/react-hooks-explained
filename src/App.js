@@ -4,10 +4,11 @@ import UseMemoComponent from './hooks/useMemo'
 import UseRefComponent from './hooks/useRef'
 import UseContextComponent from './hooks/useContext'
 import UseReducerComponent from './hooks/useReducer'
+import UseCallbackComponent from './hooks/useCallback'
 
 function App() {
   return (
-    <UseReducerComponent />
+    <UseCallbackComponent />
   );
 }
 
