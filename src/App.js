@@ -1,8 +1,9 @@
 import UseStateComponent from './hooks/useState'
+import UseEffectComponent from './hooks/useEffect'
 
 function App() {
   return (
-    <UseStateComponent />
+    <UseEffectComponent />
   );
 }
 
